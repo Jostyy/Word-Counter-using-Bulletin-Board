@@ -1,0 +1,11 @@
+﻿  DataStorage.cpp
+C:\Users\Jo\Documents\Livros\TP2\WC-Chap15\DataStorage.cpp(19,27): warning C4244: 'argumento': conversão de 'std::streamsize' para 'const unsigned int', possível perda de dados
+  EventManager.cpp
+  StopWordFilter.cpp
+C:\Users\Jo\Documents\Livros\TP2\WC-Chap15\DataStorage.cpp(26,20): warning C4018: '<': incompatibilidade de signed/unsigned
+  WC-Chap15.cpp
+  WordFrequencyApplication.cpp
+  WordFrequencyCounter.cpp
+  Gerando Código...
+C:\Users\Jo\Documents\Livros\TP2\WC-Chap15\StopWordFilter.cpp(19,27): warning C4244: 'argumento': conversão de 'std::streamsize' para 'const unsigned int', possível perda de dados
+  WC-Chap15.vcxproj -> C:\Users\Jo\Documents\Livros\TP2\WC-Chap15\Debug\WC-Chap15.exe
